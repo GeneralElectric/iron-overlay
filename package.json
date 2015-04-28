@@ -1,0 +1,21 @@
+{
+    "name": "iron-overlay",
+    "author": "General Electric",
+    "description": "A Polymer component",
+    "version": "0.0.1",
+    "private": true,
+    "fwk": "polymer08",
+    "extName" : null,
+    "repository" :
+    {
+        "type": "git",
+        "url": "https://github.sw.ge.com/change-this-in-package.json-please.git"
+    },
+    "homepage": "http://predix.sw.ge.com/",
+    "devDependencies": {
+        "grunt": "~v0.4.5",
+        "grunt-contrib-clean": "~v0.6.0",
+        "grunt-contrib-jshint": "~v0.10.0",
+        "grunt-dep-serve": "git+https://github.com/GeneralElectric/grunt-dep-serve.git#master"
+    }
+}
